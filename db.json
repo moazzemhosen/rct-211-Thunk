@@ -1,0 +1,29 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "Moazzem",
+      "isCompleted": false
+    },
+    {
+      "id": 2,
+      "title": "Hosen",
+      "isCompleted": false
+    },
+    {
+      "id": 3,
+      "title": "Sardar",
+      "isCompleted": false
+    },
+    {
+      "title": "a",
+      "state": false,
+      "id": 4
+    },
+    {
+      "title": "z",
+      "state": false,
+      "id": 5
+    }
+  ]
+}
